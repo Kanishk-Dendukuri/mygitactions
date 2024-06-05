@@ -1,12 +1,17 @@
-public static void main(String args[]){
-  System.out.println("HI");
-}
+class main{
+  
+  
+  public static void main(String args[]){
+    System.out.println("HI");
+  }
 
-int car(){
-  return 0;
-}
+  
+  int car(){
+    return 0;
+  }
 
-int bike()
-{
-   return 1;
+  
+  int bike(){
+    return 1;
+  }
 }
