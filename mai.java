@@ -1,16 +1,19 @@
-package com.example;
+package com.example; // Adjust package name as needed
 
-class Mai {
-  
-  public static void main(final String[] args) {
-    System.out.println("HI");
-  }
+/**
+ * A simple class example with a main method.
+ */
+public class Mai {
 
-  int car() {
-    return 0;
-  }
+    public static void main(String[] args) {
+        System.out.println("HI");
+    }
 
-  int bike() {
-    return 1;
-  }
+    int car() {
+        return 0;
+    }
+
+    int bike() {
+        return 1;
+    }
 }
